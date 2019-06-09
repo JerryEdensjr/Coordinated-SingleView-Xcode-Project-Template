@@ -111,6 +111,8 @@
 		</dict>
 		<key>src/extensions/README.md</key>
 		<dict>
+			<key>SortOrder</key>
+			<string>4</string>
 			<key>TargetIndices</key>
 			<array/>
 			<key>Group</key>
@@ -134,14 +136,14 @@
 			<key>Path</key>
 			<string>src/networking/protocols/README.md</string>
 			<key>SortOrder</key>
-			<string>4</string>
+			<string>5</string>
 		</dict>
 		<key>src/networking/responseModels/README.md</key>
 		<dict>
 			<key>TargetIndices</key>
 			<array/>
 			<key>SortOrder</key>
-			<string>4</string>
+			<string>6</string>
 			<key>Group</key>
 			<array>
 				<string>src</string>
@@ -156,7 +158,7 @@
 			<key>TargetIndices</key>
 			<array/>
 			<key>SortOrder</key>
-			<string>4</string>
+			<string>7</string>
 			<key>Group</key>
 			<array>
 				<string>src</string>
@@ -179,12 +181,12 @@
 			<key>Path</key>
 			<string>src/networking/service/README.md</string>
 			<key>SortOrder</key>
-			<string>4</string>
+			<string>8</string>
 		</dict>
 		<key>src/protocols/Coordinator.swift</key>
 		<dict>
 			<key>SortOrder</key>
-			<integer>5</integer>
+			<integer>9</integer>
 			<key>Group</key>
 			<array>
 				<string>src</string>
@@ -196,7 +198,7 @@
 		<key>src/protocols/Storyboardable.swift</key>
 		<dict>
 			<key>SortOrder</key>
-			<integer>5</integer>
+			<integer>10</integer>
 			<key>Group</key>
 			<array>
 				<string>src</string>
