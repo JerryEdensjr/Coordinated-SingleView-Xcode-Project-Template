@@ -17,6 +17,8 @@
 		</dict>
 		<key>../README.md</key>
 		<dict>
+			<key>TargetIndices</key>
+			<array/>
 			<key>Path</key>
 			<string>../README.md</string>
 			<key>SortOrder</key>
@@ -79,6 +81,8 @@
 		</dict>
 		<key>src/data/models/README.md</key>
 		<dict>
+			<key>TargetIndices</key>
+			<array/>
 			<key>Group</key>
 			<array>
 				<string>src</string>
@@ -92,6 +96,8 @@
 		</dict>
 		<key>src/data/viewModels/README.md</key>
 		<dict>
+			<key>TargetIndices</key>
+			<array/>
 			<key>Group</key>
 			<array>
 				<string>src</string>
@@ -101,18 +107,22 @@
 			<key>Path</key>
 			<string>src/data/viewModels/README.md</string>
 		</dict>
-		<key>src/extentions/README.md</key>
+		<key>src/extensions/README.md</key>
 		<dict>
+			<key>TargetIndices</key>
+			<array/>
 			<key>Group</key>
 			<array>
 				<string>src</string>
-				<string>extentions</string>
+				<string>extensions</string>
 			</array>
 			<key>Path</key>
-			<string>src/extentions/README.md</string>
+			<string>src/extensions/README.md</string>
 		</dict>
 		<key>src/networking/protocols/README.md</key>
 		<dict>
+			<key>TargetIndices</key>
+			<array/>
 			<key>Group</key>
 			<array>
 				<string>src</string>
@@ -126,6 +136,8 @@
 		</dict>
 		<key>src/networking/responseModels/README.md</key>
 		<dict>
+			<key>TargetIndices</key>
+			<array/>
 			<key>SortOrder</key>
 			<string>2</string>
 			<key>Group</key>
@@ -135,10 +147,12 @@
 				<string>responsModels</string>
 			</array>
 			<key>Path</key>
-			<string>src/networking/responseModels</string>
+			<string>src/networking/responseModels/README.md</string>
 		</dict>
 		<key>src/networking/routers/README.md</key>
 		<dict>
+			<key>TargetIndices</key>
+			<array/>
 			<key>SortOrder</key>
 			<string>3</string>
 			<key>Group</key>
@@ -152,6 +166,8 @@
 		</dict>
 		<key>src/networking/service/README.md</key>
 		<dict>
+			<key>TargetIndices</key>
+			<array/>
 			<key>Group</key>
 			<array>
 				<string>src</string>
@@ -220,6 +236,7 @@
 					<key>Nodes</key>
 					<array>
 						<string>src/data/models/README.md</string>
+						<string>src/data/viewModels/README.md</string>
 						<string>src/ui/flow/main/MainViewController.swift:comments</string>
 						<string>src/ui/flow/main/MainViewController.swift:imports:importCocoa</string>
 						<string>src/ui/flow/main/MainViewController.swift:implementation(___FILEBASENAME___: UIViewController)</string>
@@ -229,12 +246,13 @@
 						<string>src/protocols/Coordinator.swift:commnets</string>
 						<string>src/protocols/Storyboardable.swift:comments</string>
 						<string>Base.lproj/MainViewController.storyboard</string>
+						<string>Base.lproj/LaunchScreen.storyboard</string>
 						<string>../README.md</string>
 						<string>src/networking/protocols/README.md</string>
 						<string>src/networking/responseModels/README.md</string>
 						<string>src/networking/routers/README.md</string>
 						<string>src/networking/service/README.md</string>
-						<string>src/extentions/README.md</string>
+						<string>src/extensions/README.md</string>
 					</array>
 				</dict>
 			</dict>
