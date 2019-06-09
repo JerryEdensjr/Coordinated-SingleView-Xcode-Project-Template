@@ -20,7 +20,7 @@
 			<key>TargetIndices</key>
 			<array/>
 			<key>Path</key>
-			<string>../README.md</string>
+			<string>README.md</string>
 			<key>SortOrder</key>
 			<string>0</string>
 		</dict>
@@ -106,6 +106,8 @@
 			</array>
 			<key>Path</key>
 			<string>src/data/viewModels/README.md</string>
+			<key>SortOrder</key>
+			<string>3</string>
 		</dict>
 		<key>src/extensions/README.md</key>
 		<dict>
@@ -132,14 +134,14 @@
 			<key>Path</key>
 			<string>src/networking/protocols/README.md</string>
 			<key>SortOrder</key>
-			<string>1</string>
+			<string>4</string>
 		</dict>
 		<key>src/networking/responseModels/README.md</key>
 		<dict>
 			<key>TargetIndices</key>
 			<array/>
 			<key>SortOrder</key>
-			<string>2</string>
+			<string>4</string>
 			<key>Group</key>
 			<array>
 				<string>src</string>
@@ -154,7 +156,7 @@
 			<key>TargetIndices</key>
 			<array/>
 			<key>SortOrder</key>
-			<string>3</string>
+			<string>4</string>
 			<key>Group</key>
 			<array>
 				<string>src</string>
@@ -182,7 +184,7 @@
 		<key>src/protocols/Coordinator.swift</key>
 		<dict>
 			<key>SortOrder</key>
-			<integer>3</integer>
+			<integer>5</integer>
 			<key>Group</key>
 			<array>
 				<string>src</string>
@@ -194,7 +196,7 @@
 		<key>src/protocols/Storyboardable.swift</key>
 		<dict>
 			<key>SortOrder</key>
-			<integer>3</integer>
+			<integer>5</integer>
 			<key>Group</key>
 			<array>
 				<string>src</string>

@@ -1,0 +1,1 @@
+# Place networking response models in this folder.
